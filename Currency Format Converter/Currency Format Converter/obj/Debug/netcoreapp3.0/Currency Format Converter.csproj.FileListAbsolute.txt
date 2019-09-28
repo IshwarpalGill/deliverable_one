@@ -1,0 +1,11 @@
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\bin\Debug\netcoreapp3.0\Currency Format Converter.exe
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\bin\Debug\netcoreapp3.0\Currency Format Converter.deps.json
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\bin\Debug\netcoreapp3.0\Currency Format Converter.runtimeconfig.json
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\bin\Debug\netcoreapp3.0\Currency Format Converter.runtimeconfig.dev.json
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\bin\Debug\netcoreapp3.0\Currency Format Converter.dll
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\bin\Debug\netcoreapp3.0\Currency Format Converter.pdb
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\obj\Debug\netcoreapp3.0\Currency Format Converter.csprojAssemblyReference.cache
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\obj\Debug\netcoreapp3.0\Currency Format Converter.AssemblyInfoInputs.cache
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\obj\Debug\netcoreapp3.0\Currency Format Converter.AssemblyInfo.cs
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\obj\Debug\netcoreapp3.0\Currency Format Converter.dll
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_one\Currency Format Converter\Currency Format Converter\obj\Debug\netcoreapp3.0\Currency Format Converter.pdb
